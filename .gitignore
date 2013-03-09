@@ -1,0 +1,6 @@
+# Ignoring binary files
+*.class
+*.war
+
+# Ignoring temp files
+*~
